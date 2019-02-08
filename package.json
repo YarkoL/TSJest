@@ -1,0 +1,16 @@
+{
+  "name": "mohtests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jest": "^24.0.0",
+    "jest": "^22.0.0",
+    "ts-jest": "^23.10.5",
+    "typescript": "^3.3.3"
+  },
+  "scripts": {
+    "compile": "tsc",
+    "test": "jest"
+  }
+}
